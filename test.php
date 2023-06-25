@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-define('SITEURL', "https://www.ceramicart.in/");
+define('SITEURL', "http://ceramicart.in/");
 ?>
 <!DOCTYPE html>
 
