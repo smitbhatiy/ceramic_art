@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-define('SITEURL', "http://localhost/ceramic_art/");
+define('SITEURL', "https://www.ceramicart.in/");
 ?>
 <!DOCTYPE html>
 
