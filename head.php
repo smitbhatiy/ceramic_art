@@ -35,9 +35,9 @@
                   
                 
                 
-                <a href="javascript:void(0)" class="facebook-icon"></a>
-                <a href="javascript:void(0)" class="insta-icon ml-5"></a>
-                <a href="javascript:void(0)" class="email-icon ml-5"></a>
+                <a href="https://www.facebook.com/people/CeramicArt/100067208905260/" class="facebook-icon"></a>
+                <a href="https://www.instagram.com/ceramicart.in/?igshid=MzNlNGNkZWQ4Mg%3D%3D" class="insta-icon ml-5"></a>
+                <a href="mailto:ceramicart2020@gmail.com" class="email-icon ml-5"></a>
                 
 
 <style>
