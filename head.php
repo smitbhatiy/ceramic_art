@@ -31,7 +31,7 @@
                 <div class="header-col header-right hidden-for-sm">
                     <ul id="menu-top-navigation" class="top-links mega-menu">
                         
-                    </ul>
+                </ul>
                   
                 
                 
