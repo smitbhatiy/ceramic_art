@@ -74,9 +74,9 @@ a:hover{
                                                          <span class="cards--two__tri"></span> 
 														<div class="but">
 															<button class="font-weight-bold"><a href="#" class="text-danger">Inquiry</a></button>
-															<a href="<?php echo SITEURL;?>assets/pdf/QUARTZ KITCHEN sink.php.pdf"
+															<a href="<?php echo SITEURL;?>assets/pdf/QUARTZ KITCHEN sink.pdf"
                                                                     target="_blank" class="ml-4 pl-5"><i class="fa fa-eye"></i> </a>
-																	<a href="<?php echo SITEURL;?>assets/pdf/QUARTZ KITCHEN sink.php.pdf"
+																	<a href="<?php echo SITEURL;?>assets/pdf/QUARTZ KITCHEN sink.pdf"
                                                                     download target="_blank" class="ml-5 pl-5" > <i
                                                                         class="fa fa-download"></i> </a>
 
