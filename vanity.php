@@ -43,7 +43,7 @@ a:hover{
 															<button class="font-weight-bold"><a href="#" class="text-danger">Inquiry</a></button>
 															<a href="<?php echo SITEURL;?>assets/pdf/vanity.php.pdf"
                                                                     target="_blank" class="ml-4 pl-5"><i class="fa fa-eye"></i> </a>
-																	<a href="<?php echo SITEURL;?>assets/pdf/vanity.php.pdf"
+																	<a href="<?php echo SITEURL;?>assets/pdf/vanity.pdf"
                                                                     download target="_blank" class="ml-5 pl-5" > <i
                                                                         class="fa fa-download"></i> </a>
 
