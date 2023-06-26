@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ceramicart'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1D2ED2C59A4C465F9D6B2AD07E771D41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10EA4EB9DB484F02A26B8EF14FA87477 }}
           package: .
