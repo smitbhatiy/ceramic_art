@@ -11,6 +11,7 @@ define('SITEURL', "https://ceramicart.in/");
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+<meta name="keywords" content="exterior decorative poster tiles, border tiles, gold silver highlights, quartz sink, vanity set, tiles spacer,ceramicart,ceramicarts,ceramictiles">
 
 		
         <meta name="description" content="ceramic art offers beautiful designs and quality for all types of ceramic tiles like floor tiles, wall tiles, kitchen tiles, outdoor tiles, elevation tiles, living room tiles and sanitaryware products." />
