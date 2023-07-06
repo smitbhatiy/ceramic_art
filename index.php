@@ -222,7 +222,8 @@
 					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/poster.jpg" alt="Decorative Tiles" width="768" height="432" >				</div>
 													<div class="thumb-info-wrap">
 					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">Decorative Tiles</h3>
+<!-- 																
+						<h3 class="sub-title" style="font-size: 18px;">Decorative Tiles</h3>
 																		
 																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
 											</div>
