@@ -7,11 +7,7 @@
     a {
         text-decoration: none;
     }
-   
-
-
-  
-   
+ 
 </style>
 
 
@@ -31,13 +27,13 @@
                 <div class="header-col header-right hidden-for-sm">
                     <ul id="menu-top-navigation" class="top-links mega-menu">
                         
-                </ul>
+                    </ul>
                   
                 
                 
-                <a href="https://www.facebook.com/people/CeramicArt/100067208905260/" class="facebook-icon"></a>
-                <a href="https://www.instagram.com/ceramicart.in/?igshid=MzNlNGNkZWQ4Mg%3D%3D" class="insta-icon ml-5"></a>
-                <a href="mailto:ceramicart2020@gmail.com" class="email-icon ml-5"></a>
+                <a href="javascript:void(0)" class="facebook-icon"></a>
+                <a href="javascript:void(0)" class="insta-icon ml-5"></a>
+                <a href="javascript:void(0)" class="email-icon ml-5"></a>
                 
 
 <style>
@@ -138,11 +134,11 @@
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"
                                                 data-cols="1"><a
                                                     href="<?php echo SITEURL;?>gvt-poster.php">GVT
-                                                    Highglass & Alitter Poster</a></li>
+                                                    Highgloss Poster</a></li>
                                                     <li id="nav-menu-item-4459"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"
                                                 data-cols="1"><a
-                                                    href="<?php echo SITEURL;?>chemical_poster.php">Chemical Work Hq Poster
+                                                    href="<?php echo SITEURL;?>chemical_poster.php">Chemical &   alitter Poster
                                                     </a></li>
                                             <li id="nav-menu-item-10722"
                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"
@@ -296,7 +292,7 @@
     <div class="mobile-tabs">
         <ul class="mobile-tab-items nav nav-fill nav-tabs">
             <li class="mobile-tab-item nav-item active" pane-id="menu-main">Main Menu</li>
-            <li class="mobile-tab-item nav-item" pane-id="menu-navigation">Social Media</li>
+            <!-- <li class="mobile-tab-item nav-item" pane-id="menu-navigation">Social Media</li> -->
         </ul>
         <div class="mobile-tab-content">
             <div class="menu-wrap tab-pane active" tab-id="menu-main">
@@ -314,7 +310,13 @@
                             <li id="accordion-menu-item-4459"
                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
                                     href="<?php echo SITEURL;?>gvt-poster.php">GVT
-                                    Highglass & Alitter Poster</a></li>
+                                                    Highgloss Poster</a></li>
+                                                    <li id="nav-menu-item-4459"
+                                                class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"
+                                                data-cols="1"><a
+                                                    href="<?php echo SITEURL;?>chemical_poster.php">Chemical &   alitter Poster
+                                                    </a></li>
+                                                    
                             <li id="accordion-menu-item-10722"
                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat"><a
                                     href="<?php echo SITEURL;?>3d_poster.php">3D Emboss
