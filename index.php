@@ -210,148 +210,152 @@
 											</div>
 										</section>
 
-                                        <div class="cards-container">
+											<div class="cards-container">
 
 
-        <div class="woocommerce columns-3"><ul class="products products-container grid category-pos-outside category-text-center category-color-dark pcols-lg-3 pcols-md-3 pcols-xs-2 pcols-ls-3 pwidth-lg-3 pwidth-md-3 pwidth-xs-2 pwidth-ls-1 is-shortcode" data-product_layout="product-awq_onimage">
+			<div class="woocommerce columns-3"><ul class="products products-container grid category-pos-outside category-text-center category-color-dark pcols-lg-3 pcols-md-3 pcols-xs-2 pcols-ls-3 pwidth-lg-3 pwidth-md-3 pwidth-xs-2 pwidth-ls-1 is-shortcode" data-product_layout="product-awq_onimage">
 
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>decorative-tiles.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/poster.jpg" alt="Decorative Tiles" width="768" height="432" >				</div>
-													<div class="thumb-info-wrap">
-					<div class="thumb-info-title">
-<!-- 																
-						<h3 class="sub-title" style="font-size: 18px;">Decorative Tiles</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>decorative-tiles.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/poster.jpg" alt="Decorative Tiles" width="768" height="432" >				</div>
+														<div class="thumb-info-wrap">
+						<div class="thumb-info-title">
+																	<!-- <h3 class="sub-title">Decorative Tiles</h3> -->
+																	<h3 class="sub-title" style="
+		font-size: 18px;
+	">Decorative Tiles</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
 					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>border-tiles.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/border.jpg" alt="Floor Tiles" width="768" height="432" >				</div>
-													<div class="thumb-info-wrap">
-					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">Border Tiles</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
-					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>gold-silver-highliters.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/img.jpg" alt="Wall Tiles"  >				</div>
-													<div class="thumb-info-wrap">
-					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">Gold Silver Highliters</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
-					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>Quartz-sink.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/sink_image.jpg" alt="Kitchen Tiles"></div>
-													<div class="thumb-info-wrap">
-					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">Quartz sink</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
-					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>Quartz-sink.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/vanity.jpg" alt="Elevation Tiles">				</div>
-													<div class="thumb-info-wrap">
-					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">vanity Set</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
-					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-
-<li class="product-category product-col">
-		<a href="<?php echo SITEURL?>slab-tiles.php" aria-label="category">
-		<div class="thumb-info  align-center">
-									<div class="thumb-info-wrapper tf-none">
-					<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/SPACER.jpg" alt="Outdoor Tiles"></div>
-					<div class="thumb-info-title">
-																<h3 class="sub-title thumb-info-inner">Tiles Spacer</h3>
-																		
-																					<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
-											</div>
-				</div>
-					</div>
-	</a>
-
-	
-	<div class="woocommerce columns-1 "></div></li>
-</ul>
-</div>
-
-									
-									</div>
-								</div>
-							</article>
-
 						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>border-tiles.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/border.jpg" alt="Floor Tiles" width="768" height="432" >				</div>
+														<div class="thumb-info-wrap">
+						<div class="thumb-info-title">
+																	<h3 class="sub-title thumb-info-inner">Border Tiles</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
+					</div>
+						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>gold-silver-highliters.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/img.jpg" alt="Wall Tiles"  >				</div>
+														<div class="thumb-info-wrap">
+						<div class="thumb-info-title">
+																	<h3 class="sub-title thumb-info-inner">Gold Silver Highliters</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
+					</div>
+						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>Quartz-sink.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/sink_image.jpg" alt="Kitchen Tiles"></div>
+														<div class="thumb-info-wrap">
+						<div class="thumb-info-title">
+																	<h3 class="sub-title thumb-info-inner">Quartz sink</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
+					</div>
+						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>Quartz-sink.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/vanity.jpg" alt="Elevation Tiles">				</div>
+														<div class="thumb-info-wrap">
+						<div class="thumb-info-title">
+																	<h3 class="sub-title thumb-info-inner">vanity Set</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
+					</div>
+						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+
+	<li class="product-category product-col">
+			<a href="<?php echo SITEURL?>slab-tiles.php" aria-label="category">
+			<div class="thumb-info  align-center">
+										<div class="thumb-info-wrapper tf-none">
+						<img decoding="async" loading="lazy" src="<?php echo SITEURL?>assets/images/SPACER.jpg" alt="Outdoor Tiles"></div>
+						<div class="thumb-info-title">
+																	<h3 class="sub-title thumb-info-inner">Tiles Spacer</h3>
+																			
+																						<span class="btn">View All Products<i class="fas fa-long-arrow-alt-right ms-2"></i></span>
+												</div>
+					</div>
+						</div>
+		</a>
+
+		
+		<div class="woocommerce columns-1 "></div></li>
+	</ul>
+	</div>
+
+										
+										</div>
+									</div>
+								</article>
+
+							</div>
 
 
 
-					</div><!-- end main content -->
+						</div><!-- end main content -->
 
 
 
+					</div>
 				</div>
-			</div>
 
 
 
-		</div><!-- end main -->
+			</div><!-- end main -->
 
 
-	
+		
 
-        <?php include 'footer.php'; ?>
+			<?php include 'footer.php'; ?>
 
 
-	</div><!-- end wrapper -->
-</body>
+		</div><!-- end wrapper -->
+	</body>
 
-</html>
+	</html>
+
+                                      
